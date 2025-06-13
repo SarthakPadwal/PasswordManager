@@ -1,0 +1,16 @@
+#  Ignore your secret key file
+key.key
+
+#  Ignore saved passwords
+passwords.txt
+
+#  Bytecode and cache folders
+__pycache__/
+*.pyc
+
+#  VS Code settings (optional)
+.vscode/
+
+#  OS-specific files
+.DS_Store
+Thumbs.db
